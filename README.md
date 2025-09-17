@@ -7,3 +7,6 @@ I thought this article was interesting especially because of the recent buzz of 
 
 *Comment by Jacob Kang:*  
 I agree with your take. AI is a powerful tool, but it can’t replicate the creativity and problem-solving that make software engineers valuable. It's good seeing an article that balances AI’s benefits with the irreplaceable value of human insight.
+
+*Comment by Lina Sanchez:*
+I also agree with the above two comments. At the end of the day AI is just pulling from what it has been trained on, true innovation comes from life experiences and creativity. All jobs will be affected by increasingly sophisticated AI, but I agree with the article's point that humans are still essential despite that, especially when using AI as a tool.
