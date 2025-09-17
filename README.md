@@ -2,3 +2,8 @@
 
 # Article Reflection
 I thought this article was interesting especially because of the recent buzz of AI and the idea that it might replace software engineers. I liked how it highlighted the importance of the human mind and creativity. It made me realize how much of software engineering, or any career, depends on aspects that AI cant replace. I also liked how the article acknowledged the power of AI, such as its ability in automating tasks and improving efficiency, while still emphasizing that the creative and collaborative parts of engineering are very much human strengths.
+
+---
+
+*Comment by Jacob Kang:*  
+I agree with your take. AI is a powerful tool, but it can’t replicate the creativity and problem-solving that make software engineers valuable. It's good seeing an article that balances AI’s benefits with the irreplaceable value of human insight.
